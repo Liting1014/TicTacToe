@@ -1,0 +1,2 @@
+Windows/Engine/Binaries/Win64/UnrealGame.exe filter=lfs diff=lfs merge=lfs -text
+Windows/Engine/Binaries/Win64/UnrealGame.pdb filter=lfs diff=lfs merge=lfs -text
